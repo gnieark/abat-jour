@@ -9,7 +9,7 @@ Je mettrai une photo lorsque je l'aurai fait, que ce soit moche ou non.
 L'encoche pour fixer la douille de lampe est de diametre 10mm (format petite douille Ikéa)
 
 #Imprimer:
-Passez circles.stl et struct.stl dans votre trancheur préférer
+Passez circles.stl et struct.stl dans votre trancheur préféré.
 
 #Découper
 le fichier all.dxf contient tous les profils 
